@@ -107,5 +107,4 @@ Want to contribute? Fork the repository and submit a PR.
 📜 License
 This project is open-source and available under the MIT License.
 
-https://cerebrascoder.com/p/266432
 
