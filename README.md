@@ -1,6 +1,6 @@
 Project live link below
 https://cerebrascoder.com/p/266432
-![Alt Text](https://github.com/SrikanthNayak1/Event-Management-Platform/blob/6383c7f08668dfdaf167a8052bc811a4347789af/Screenshot%20(13).png)
+![Image](https://github.com/user-attachments/assets/3ff126fa-43e8-484f-8221-0189e03508c6)
 
 
 Event Management Platform
